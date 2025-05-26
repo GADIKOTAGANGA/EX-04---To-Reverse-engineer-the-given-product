@@ -37,8 +37,8 @@
 ![image](https://github.com/user-attachments/assets/ee324891-39e2-4fc0-9243-64af1e50d510)
 
 
-### Name: Markandeyan Gokul 
-### Register Number: 212224240086
+### Name: G.Ganga Devi 
+### Register Number: 212224240042
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
